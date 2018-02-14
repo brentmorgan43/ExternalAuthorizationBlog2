@@ -1,0 +1,12 @@
+C:\Source\ExternalAuthorization\ExternalAuthorization\bin\Debug\netcoreapp2.0\ExternalAuthorization.deps.json
+C:\Source\ExternalAuthorization\ExternalAuthorization\bin\Debug\netcoreapp2.0\ExternalAuthorization.runtimeconfig.json
+C:\Source\ExternalAuthorization\ExternalAuthorization\bin\Debug\netcoreapp2.0\ExternalAuthorization.runtimeconfig.dev.json
+C:\Source\ExternalAuthorization\ExternalAuthorization\bin\Debug\netcoreapp2.0\ExternalAuthorization.dll
+C:\Source\ExternalAuthorization\ExternalAuthorization\bin\Debug\netcoreapp2.0\ExternalAuthorization.pdb
+C:\Source\ExternalAuthorization\ExternalAuthorization\obj\Debug\netcoreapp2.0\ExternalAuthorization.csproj.CoreCompileInputs.cache
+C:\Source\ExternalAuthorization\ExternalAuthorization\obj\Debug\netcoreapp2.0\ExternalAuthorization.AssemblyInfoInputs.cache
+C:\Source\ExternalAuthorization\ExternalAuthorization\obj\Debug\netcoreapp2.0\ExternalAuthorization.AssemblyInfo.cs
+C:\Source\ExternalAuthorization\ExternalAuthorization\obj\Debug\netcoreapp2.0\ExternalAuthorization.dll
+C:\Source\ExternalAuthorization\ExternalAuthorization\obj\Debug\netcoreapp2.0\ExternalAuthorization.pdb
+C:\Source\ExternalAuthorization\ExternalAuthorization\obj\Debug\netcoreapp2.0\ExternalAuthorization.csprojResolveAssemblyReference.cache
+C:\Source\ExternalAuthorization\ExternalAuthorization\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
